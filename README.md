@@ -1,0 +1,1 @@
+This is GeorgeChondraki’s first git project!
